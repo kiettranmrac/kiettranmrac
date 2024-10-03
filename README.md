@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey, nice to see you there 😄
+
+- 🔭 I’m currently working on an AI project.
+- 🌱 I’m currently learning AI.
+- 💬 Ask me about arcade related questions!!
+- 📫 How to reach me: kiettuantranvn@gmail.com
+- ⚡ Fun fact: big arcade guy.
 
 <!--
 **kiettranmrac/kiettranmrac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
